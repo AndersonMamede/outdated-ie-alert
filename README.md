@@ -11,7 +11,7 @@ This plugin will show a modal box to the visitor who is trying to view your webs
 jQuery library
 
 ### Demo
-[Demo](http://demo.com/index.html)
+<img src="https://github.com/AndersonMamede/outdated-ie-alert/blob/master/demo.png"/>
 
 ### Usage
 Include jQuery library and then outdated-ie-alert.js and outdated-ie-alert.css files in your HTML document and initialize the plugin:
